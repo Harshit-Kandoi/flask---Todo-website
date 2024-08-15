@@ -38,4 +38,4 @@ from app import app, db
 3. documention - Flask, Flask-SQLAlchemy
 4. Chatgpt.
 
-# This project is still in a develooping phase, for now to can intract with the interface but with time we can deploy more advance features.
+# This project is still in a develooping phase, for now you can interact with the interface but with time we can deploy more advance features.
